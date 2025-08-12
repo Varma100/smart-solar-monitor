@@ -30,4 +30,5 @@ Matplotlib
 Streamlit
 
 👤 Author
-Nikeath MSc Electrical Communication Engineering, University of Kassel Passionate about sustainability, data science, and smart energy systems.
+Nikeath Varma,
+MSc Electrical Communication Engineering, University of Kassel Passionate about sustainability, data science, and smart energy systems, semi conductors.
